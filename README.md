@@ -1,7 +1,7 @@
 # SentinelStriker
 Powershell script to force SentinelOne into a dormant state due to resource consumption by committing all memory available and holding it.
 
-Based on the research done by ***. You can read his original article below: 
+Based on the research done by 0x00Check You can read his original article below: 
 
 https://0x00check.com/Bypassing-SentinelOne-with-resource-consumption/
 
