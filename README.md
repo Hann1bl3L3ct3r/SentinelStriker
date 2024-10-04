@@ -11,3 +11,5 @@ You may sometimes need to run the script multiple times to trigger the crash/dis
 
 
 ![Screenshot 2024-10-01 101927](https://github.com/user-attachments/assets/6e7bc10b-1aaa-42ef-b722-98e49c07110a)
+
+This script is for educational and legal purposes only. 
